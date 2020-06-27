@@ -1,0 +1,17 @@
+{
+  "name": "gshaly-data",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Provide tea data for consumption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Forshey",
+  "license": "ISC",
+  "dependencies": {
+    "@now/node": "^1.7.1",
+    "dotenv": "^8.2.0",
+    "googleapis": "^52.1.0"
+  }
+}
