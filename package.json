@@ -13,7 +13,7 @@
     "@vercel/node": "^2.5.2",
     "dotenv": "^16.0.1",
     "googleapis": "^105.0.0",
-    "vercel": "^28.4.11"
+    "vercel": "^28.15.3"
   },
   "devDependencies": {
     "typescript": "^4.7.4"
